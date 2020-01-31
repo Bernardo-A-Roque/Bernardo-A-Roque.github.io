@@ -1,0 +1,17 @@
+body {
+	background-color: #202020;
+}
+
+ul {
+	
+	background-color: #7777CC;
+	padding: 0.5em;
+}
+
+li {
+	display: inline;
+	padding: 1em;
+	font-family: "Arial", sans-serif;
+	font-size: 1.2em;
+
+}
